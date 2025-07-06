@@ -18,7 +18,7 @@
 ---
 
 - 👨‍💻 As a systems engineer, software developer, and AI enthusiast, I am constantly learning and exploring new technologies to improve my skills.
-- 🌱 I am currently diving deeper into _[Machine Learning]_y [Deed Learning].
+- 🌱 I am currently learning _Machine Learning_ and _Deep Learning_.
 
 
 ## 🛠 &nbsp;Tech Stack
